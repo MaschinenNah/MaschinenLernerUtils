@@ -1,3 +1,0 @@
-def testfunktion():
-  print("läuft")
-  
